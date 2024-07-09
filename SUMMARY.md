@@ -5,9 +5,8 @@
 * [Alchemix](Alchemix/README.md)
     * [Report 30555](Alchemix/Report%2030555.md)
 
-* [Second page’s title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+* [BadgerDAO (eBTC)](BadgerDAO%20(eBTC)/README.md)
+    * [Report 28546](BadgerDAO%20(eBTC)/Report%2028546.md)
 
 ## A second-page group​
 
